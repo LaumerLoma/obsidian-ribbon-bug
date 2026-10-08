@@ -1,0 +1,9 @@
+{
+  "id": "ribbon-compat",
+  "name": "Ribbon Compat",
+  "version": "0.2.0",
+  "minAppVersion": "1.8.0",
+  "description": "Keeps the saved hidden state of ribbon icons that plugins register after the layout has loaded (e.g. the first time a vault is opened on a device).",
+  "author": "LaumerLoma",
+  "isDesktopOnly": false
+}

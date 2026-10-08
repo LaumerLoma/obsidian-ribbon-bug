@@ -1,0 +1,5 @@
+{"main":{"id":"m","type":"split","children":[{"id":"t","type":"tabs","children":[{"id":"l","type":"leaf","state":{"type":"empty","state":{}}}]}],"direction":"vertical"},
+ "left":{"id":"L","type":"split","children":[],"direction":"horizontal","width":300},
+ "right":{"id":"R","type":"split","children":[],"direction":"horizontal","width":300,"collapsed":true},
+ "left-ribbon":{"hiddenItems":{"late-ribbon:Late ribbon icon":true,"switcher:Open quick switcher":true}},
+ "active":"l","lastOpenFiles":[]}
